@@ -19,5 +19,7 @@ module.exports = {
     'react/jsx-filename-extension': 'off',
     'react/prop-types': 'off',
     'react/jsx-props-no-spreading': 'off',
+    'no-useless-catch': 'off',
+    'react/jsx-no-constructed-context-values': 'off',
   },
 };
